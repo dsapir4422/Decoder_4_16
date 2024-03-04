@@ -52,7 +52,7 @@ The decoder should output 'logic high' for a corresponding input binary. in orde
 Transient simulation results, Full digital view - 
 <img width="1903" alt="image" src="https://github.com/dsapir4422/Decoder_4_16/assets/87266625/4fc7de68-1dba-4759-8f5a-e9d1a625eb26">
 
-We can also calculat the propogation delay for a transition - 
+We can also calculate the propogation delay for a transition - 
 <img width="1909" alt="image" src="https://github.com/dsapir4422/Decoder_4_16/assets/87266625/46cee0d2-a126-4cba-becb-ebcb6b53d283">
 
 In the plot we can see that $Tp_{HL}$ = $426.97p$ , $Tp_{LH}$ = $267.21p$ => $T_p$ = ($Tp_{HL} + Tp_{LH})/2 = 347p$
